@@ -13,3 +13,6 @@ What I find particularly compelling about this article is its discussion of real
 ## Daniel Brito Comment
 
 I think your comment and article choice are interesting because it discusses an often overlooked aspect of software. Especially with the rise of AI, people are worried about the ethics behind the development and what the future holds because of it.
+
+## Stephen Spencer-Wong
+I agree that we should put more consideration into the ethical dilemmas that software engineers face and how to approach them. Sam Altman, CEO of OpenAI, recently recieved backlash for suggesting the need to rewrite the social contract to fit the future of AI. We have to be cautious of Silicon Valley billionaires attempting to rescript the social contract to their liking. In the world of software engineering and specially in AI, we ought to be more careful about the ethical considerations of the software we create especially around bias, privacy, and accountability. 
